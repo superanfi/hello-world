@@ -9,3 +9,6 @@ This is a numbered list:
 3. Three
 
 *Some more text*
+
+Adding an image here:
+![Episerver platform](/Images/EpiDXPoverview.png)
